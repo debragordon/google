@@ -9,9 +9,8 @@ html {
 }
 
 body {
-	background: white;
 	font-family: Arial, sans-serif;
-  color: #929292;
+  color: #757575;
   margin: 0 0 100px; /* bottom = footer height */
 }
 
@@ -21,23 +20,23 @@ body {
 
 /*LINKS*/
 a {
-  color: #929292;
+  color: #757575;
 }
 
 a:link {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 a:visited {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 a:hover {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 a:active {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 /*NAVIGATION*/
@@ -62,7 +61,7 @@ li {
 
 /*BUTTON*/
 .button {
-  background: #eee;
+  background: #f2f2f2;
   padding: 10px;
 }
 
@@ -72,15 +71,15 @@ p {
 
 /*FOOTER*/
 .site-footer {
-  background: #eee;
+  background: #f2f2f2;
 }
 
 footer {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 50px;
-    width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 50px;
+  width: 100%;
 }
 
 .left {
@@ -99,7 +98,7 @@ footer {
 .search {
   width: 100%;
   padding: 12px 20px;
-  margin: 8px 0;
+  margin: 30px 0;
   box-sizing: border-box;
 }
 
